@@ -1,0 +1,24 @@
+.Layout-nav {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  bottom: 25%;
+  position: fixed;
+}
+
+.Layout-nav a {
+  text-decoration: none;
+  width: 200px;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid palegreen;
+  margin: 10px;
+  font-size: large;
+  font-weight: 600;
+  color: darkorchid;
+}
